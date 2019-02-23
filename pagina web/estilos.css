@@ -1,0 +1,175 @@
+*{
+	margin:0;
+	padding:0;
+	 -webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	 box-sizing:border-box;  
+}
+
+/*Este es el codigo de nuestra imagen que esta en el header*/
+img{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.top{
+	position: absolute;
+	top: 10px;
+	font-size: 35px;
+	color: white;
+	right;
+	margin: auto;
+
+}
+
+
+ /*Este es el codigo de nuestro Menu(nav)*/
+
+nav{
+	background:#045FB4;
+color: #fff;
+}
+nav ul li{
+	text-align: center;
+	color: #876;
+	display: inline-block;
+	margin: 30px;
+
+	
+
+}
+  li ul{.
+list-style: none;
+text-decoration:none;
+float: left;
+
+	
+}
+
+
+h1{
+	color: #fff;
+	text-align: center;
+	background: #00C6EE;;
+	border-style: dotted; 
+	
+
+}
+/*Este es el codigo de nuestro footer*/
+
+footer{
+	width: 100%;
+	font-family: Raleway;
+	
+
+
+}
+.contenedor1{
+	width: 100%;
+	background:#272727;
+	color: #fff; 
+}
+.cont00{
+	width: 98%;
+	max-width: 1000px;
+	margin: auto;
+	padding: 50px 0;
+	display: flex;
+	flex-wrap: wrap;
+
+
+}
+ .cont00 .contenedor2{
+ 	width: calc(100% / 3);
+	text-align: justify;
+ 	
+ }
+ .cont00 .contenedor2:nth-child(2){
+padding: 0 20px;
+
+ }
+ .cont00 .contenedor2 h3{
+
+ 	font-size: 20px;
+ 	color: #00C6EE;
+ 	margin-bottom: 20px;
+ }
+ .cont00 .contenedor2 input[type="email"]{
+ 	border: none;
+ 	width: 100%;
+ 	border: 1px solid #00C6EE;
+ 	font-size: 14px;
+ 	padding: 10px;
+ 	font-family: Raleway;
+ }
+.cont00 .contenedor2 input[type="submit"]{
+	border: none;
+	background: #00C6EE;
+	color:#fff;
+	padding: 10px 40px;
+	font-size: 18px;
+	margin-top: 10px;
+	cursor: pointer;
+	font-family: Raleway;
+}
+
+
+
+
+
+}
+
+
+/*Este es el codigo de nosotros */
+
+.man {
+	background:url(negocio//ace1.jpg);
+
+
+}
+ .caja1{
+ 	float: left;
+ 	width: 200px;
+	background:  #123;
+	padding:  25px;
+	margin-left:105px;
+	height:560px;
+	background:url(imagenes/ace1.jpg);
+
+
+ }
+ 
+ .caja2 {
+ 	
+ 	background: #654;
+ 	width: 200px ;
+ 	float: left;
+ 	padding:  25px ;
+ 	margin-left:105px;
+ 	background:url(imagenes/ace1.jpg);
+
+ 
+
+ }
+ .caja3{
+ 	float: left;
+	background :#098;
+ 	width:200px 200px;
+ 	padding:  25px ;
+ 	margin-left: 105px;
+  background:url(imagenes/ace1.jpg);
+
+ }
+
+
+
+
+
+
+ 
+
+
+
+ 
